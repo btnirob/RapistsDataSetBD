@@ -1,0 +1,334 @@
+Name,Age,occupation,Region,Addiction,Date,Victim age,Murder?,Gange rape,R_id,Relative,VictimMStatus,Neighbour,Serial
+Joyprakash,,Unemployed ,0,1,,8,1,0,1,0,0,0,1
+Golam mostaafa,28,Unemployed,1,1,,5,1,1,2,0,0,0,2
+Azizul Bawani,30,Unemployed,1,1,,5,1,1,2,0,0,0,3
+Anisur Rahman,,worker,0,1,"22January,2019",35,0,1,3,0,1,0,4
+Liton Biswas,,worker,0,1,,35,0,1,3,0,1,0,5
+Riaz Uddin,40,worker,1,1,"14 Jan,2019",8,0,0,4,0,0,0,6
+Haris Mia,50,Unemployed,0,1,,4,0,0,5,0,0,0,7
+HouseOwner,63,HouseOwner,1,0,,17,0,0,6,0,0,0,8
+Security Guard,40,Guard,1,1,,17,0,0,6,1,0,0,9
+Boy,14,Unemployed,1,0,,4,0,0,7,0,0,0,10
+Jahir Hossain,29,Unemployed,1,1,,35,0,1,8,0,1,0,11
+Obaidullaha,20,Unemployed,1,0,,14,0,0,9,0,0,1,12
+Khairul Islam,,Unemployed,1,0,,24,0,0,10,0,0,0,13
+Victim's Uncle,45,Unemployed,1,1,January 14,9,0,0,11,1,0,1,14
+ Abdur Razzak,45,councillor ,1,1,,13,0,0,12,0,0,1,15
+Sajal Mia,27,Day Labour,0,1,"January 25,2019",12,0,0,13,0,0,0,16
+Parimal Mallik ,22,Unemployed,0,1,"January 26,2019",15,0,1,14,0,0,1,17
+Kalu Mallik,19,Unemployed,0,0,1/26/2019,15,0,1,14,0,0,1,18
+Mridul Hasan,22,Gaurd,0,1,"Jaunary 27, 2019",16,0,1,15,0,0,1,19
+Siam,20,Unemployed,0,0,"Jaunary 27, 2019",16,0,1,15,0,0,1,20
+Nizamuddin,22,Unemployed,0,0,"Jaunary 27, 2019",16,0,1,15,0,0,1,21
+Chandu,35,Unemployed,0,1,"Jaunary 27, 2019",25,0,0,16,0,1,1,22
+Hridoy,22,Unemployed,0,0,"January 28,2019",40,0,0,17,0,1,1,23
+Monirul Islam,32,Unemployed,0,1,"January 28,2019",,0,0,18,0,1,1,24
+Abdullah Al- Mamun,32, Madrasa Teacher,1,0,"January 29,2019",9,0,0,19,0,0,1,25
+Boy(Name Unknown),15,Unemployed,0,0,"January 29, 2019",14,0,0,20,0,0,1,26
+Nur Islam,43,Unemployed,0,1,"February 01, 2019",7,0,0,21,0,0,1,27
+Sagor,22,Unemployed,1,1,,14,0,1,22,0,0,0,28
+Belal,30,Unemployed,1,1,,14,0,1,22,0,0,0,29
+Shafiq,26,Unemployed,1,1,,14,0,1,22,0,0,0,30
+Ishrafil Azad Swapan,22,Unemployed,0,0,,10,0,1,23,0,0,0,31
+ Nizamuddin,20,Unemployed,0,0,,10,0,1,23,0,0,0,32
+Tushar Pramanik,20,Unemployed,0,0,"February 05, 2019",15,0,1,24,0,0,1,33
+Md Shakil,,Unemployed,0,1,2/5/2019,15,0,1,24,0,0,1,34
+Md Rony,,Unemployed,0,1,2/5/2019,15,0,1,24,0,0,1,35
+Boy,13,Unemployed,0,0,"February 12, 2019",5,0,0,25,0,0,1,36
+Moksed Ali,39,Unemployed,0,1,"February 12, 2019",12,0,0,26,0,0,1,37
+Mohammad Sohel,,Unemployed,1,1,"February 13, 2019",18,0,1,27,0,0,1,38
+Tajul Islam,,Unemployed,1,1,2/13/2019,18,0,1,27,0,0,1,39
+HouseOwner,,electrician,1,1,3/13/2019,16,0,0,28,0,0,1,40
+Lal Chan,35,worker,1,1,3/13/2019,12,0,0,29,0,0,1,41
+Abdur Razzak,45,Dotara player,1,1,"February 14,2019",8,0,0,30,0,0,1,42
+Sultan,22,Unemployed,1,1,"February 14, 2019",17,0,1,31,0,0,0,43
+Arafat Hossain Sunny,25,Unemployed,0,1,"February 26, 2019",15,0,0,32,0,0,1,44
+Mannan Miah,23,Unemployed,0,1,"February 27, 2019",5,0,0,33,0,0,1,45
+Father*,,Unemployed,0,1,"February 27,2019",11,0,0,34,1,0,1,46
+Babu,,Unemployed,1,1,,17,0,1,35,0,0,1,47
+Rezaul,,Unemployed,1,1,,16,0,1,35,0,0,1,48
+Imran,19,Unemployed,0,0,"March 10, 2019",6,0,0,36,0,0,1,49
+Morshed,30,Unemployed,0,1,"March 11, 2019",14,0,1,37,0,0,0,50
+Sohel Mia,25,Unemployed,0,1,"March 11, 2019",14,0,1,37,0,0,0,51
+Plabon Biswas,24,Unemployed,0,1,"March 11, 2019",14,0,1,37,0,0,0,52
+Abdullah ,22,Unemployed,0,1,"March 11, 2019",14,0,1,37,0,0,0,53
+ Ariful Islam,24,Unemployed,0,1,"March 11, 2019",14,0,1,37,0,0,0,54
+Shemul Hossain,25,Unemployed,0,1,"March 11, 2019",14,0,1,37,0,0,0,55
+Kamrul Hasan Biplob,20,Unemployed,0,0,"March 12, 2019",15,0,0,38,0,0,1,56
+Nazrul Islam,42,Jubo league worker,0,1,"March 24, 2019",30,0,1,39,0,0,0,57
+Nurnabi Islam,35, Jubo league worker,0,1,"March 24, 2019",30,0,1,39,0,0,0,58
+Rezaul Karim,34,GS Jubo league,0,1,"March 24, 2019",30,0,1,39,0,0,0,59
+Md Palash,20,Unemployed,0,0,7-1-2020,13,1,0,40,0,0,1,60
+Emran Mia,27,Unemployed,1,1,9-1-2020,6,0,0,41,0,0,1,61
+unNamed,50,Unemployed,0,0,,18,0,0,42,1,0,1,62
+Yousuf,25,Unemployed,0,1,28-1-2020,15,0,1,43,0,0,1,63
+Babu,26,Unemployed,0,1,28-1-2020,15,0,1,43,0,0,1,64
+Sharif Hossain,18,Unemployed,0,0,29-1-2020,16,0,1,44,0,0,0,65
+Imran Hasan Sujan,19,Unemployed,0,0,29-1-2020,16,0,1,44,0,0,0,66
+Sharif Uddin Mollah,20,Unemployed,0,1,29-1-2020,16,0,1,44,0,0,0,67
+A Boy,16,Unemployed,0,1,29-1-2020,16,0,1,44,0,0,0,68
+Abul Khayer,45,Tailor,0,1,30-1-2020,7,0,0,45,0,0,1,69
+Akhter Hossain,35,Unemployed,0,1,30-1-220,14,0,0,46,0,0,1,70
+Shimul,,Awami League activist,1,1,2-2-2020,14,0,0,47,0,0,0,71
+Mominul Haque,28,farmer,0,0,3-2-2020,4,1,0,48,0,0,1,72
+A boy,14,shop employee,1,0,4-2-2020,4,0,0,49,0,0,1,73
+Yusuf Ali,35,shopkeeper,1,1,5-2-2020,16,0,0,50,0,0,1,74
+Truckers Nayan,18,Unemployed,1,1,9-2-2020,,0,1,51,0,0,0,75
+Shahab Uddin,20,Unemployed,1,1,9-2-2020,,0,1,51,0,0,0,76
+Babu Mandal,20,Unemployed,1,1,9-2-2020,,0,1,51,0,0,0,77
+Tofazzal,19,Unemployed,1,1,9-2-2020,,0,1,51,0,0,0,78
+Man,40,Unemployed,0,0,9-2-2020,19,0,0,52,1,1,1,79
+Hasan Sardar,21,Unemployed,0,1,10-2-2020,18,0,1,53,0,0,1,80
+Sohel Rana Didar,20,Unemployed,0,1,10-2-2020,18,0,1,53,1,0,1,81
+Wasel Ahmed Sikder,22,Unemployed,0,1,10-2-2020,18,0,1,53,0,0,1,82
+Morshed Hang,35,Unemployed,0,1,10-2-2020,18,0,1,53,0,0,1,83
+Rupom Fakir,22,Unemployed,0,1,10-2-2020,18,0,1,53,0,0,1,84
+Sahar Ali,30,Unemployed,1,1,11-2-2020,23,0,1,54,0,1,1,85
+Rakib alias Rocky,35,Unemployed,1,1,11-2-2020,23,0,1,54,0,1,1,86
+Farzana Begum(Female friend of Victim,25,Unemployed,1,0,11-2-2020,23,0,1,54,1,1,1,87
+Sohel Bapari,38,Unemployed,1,1,12-2-2020,,0,1,55,0,0,0,88
+Rana Bapari,32,Unemployed,1,1,12-2-2020,,0,1,55,0,0,0,89
+Aktar Ali,38,Unemployed,1,1,12-2-2020,,0,1,55,0,0,0,90
+Rofiz Uddin Opu,45,Unemployed,0,0,12-2-2020,13,0,0,56,0,0,1,91
+Harun Khalifa,45,bedding store trader,0,0,14-2-2020,10,0,0,57,0,0,0,92
+Ronny Miah,19,Unemployed,0,1,14-2-2020,18,0,1,58,0,0,0,93
+Hridoy Hossain,19,Unemployed,0,1,14-2-2020,18,0,1,58,0,0,0,94
+Md Hridoy,22,bus helper,0,1,14-2-2020,18,0,1,58,0,0,0,95
+Sultan Mahmud,55,shopkeeper,0,0,15-2-2020,14,0,0,59,0,0,1,96
+Akbar Mia,30,carpenter,0,0,19-2-2020,25,0,0,60,0,1,1,97
+Salamat Miah,25,grocer,0,0,19-2-2020,22,0,0,61,0,1,1,98
+Imran Hossain,45,Unemployed,1,0,19-2-2020,30,0,0,62,0,0,0,99
+Shahin,30,Unemployed,1,1,19-2-2020,14,0,1,63,0,0,0,100
+Shariful Islam,32,Unemployed,1,1,19-2-2020,14,0,1,63,0,0,0,101
+Kajol,19,Unemployed,1,1,19-2-2020,14,0,1,63,0,0,0,102
+Rony,21,Unemployed,1,0,"01 April, 2020",11,0,0,1,0,0,0,103
+Badiul Alam Munshi,52,Job Holder,1,1,4/1/2020,,0,0,2,0,0,1,104
+Babu Sardar,48,secretary of Sramik Leage,1,1,"01 April, 2020",,0,0,3,0,1,0,105
+Mozammel,40,Unemployed,0,1,"02 April, 2020",,0,1,4,0,0,0,106
+Zafar Alam,25,Unemployed,0,1,"02 April, 2020",,0,1,4,0,0,0,107
+Sohrab Miah,60,Unemployed,0,1,"04 April,2020",8,0,0,5,0,0,1,108
+Hafizur Rahman,45,Unemployed,1,1,"06 April,2020",,0,0,6,0,0,1,109
+Abdul Kadir,,owner of a store,1,1,"06 April, 2020",,0,0,7,0,0,1,110
+Teenager,,Unemployed,0,1,"9 April,2020",,0,1,8,0,1,0,111
+Liton Mia,25,rickshaw puller,0,1,"9 April, 2020",9,0,0,9,0,0,0,112
+Abu Zafar Mollah,60,Unemployed,0,1,"9 April, 2020",11,0,0,10,1,0,1,113
+Tanveer Hossain,17,College Student,1,0,"12 April, 2020",18,0,0,11,0,0,0,114
+Abdur Rahman,40,Unemployed,1,1,"16 April, 2020",7,0,0,12,0,0,0,115
+Ansar Ali,50,Unemployed,0,1,"20 April,2020",35,0,0,13,0,1,1,116
+Tutul,22,Unemployed,1,0,"25 April,2020",6,0,0,14,0,0,0,117
+Koyes Ahmed,35,Unemployed,1,1,"2 May,2020",,0,0,15,1,0,0,118
+Alamgir Hossain,22,an electrician,1,1,"9 May,2020",10,0,0,16,0,0,0,119
+Abu Sufian,21,Unemployed,1,0,"15 May,2020",7,1,0,17,0,0,0,120
+Alamgir Hossain,40,Unemployed,1,1,"28 May,2020",60,0,0,18,0,0,0,121
+Abul Basher,,Unemployed,1,1,"31 March,2020",48,0,1,19,0,1,0,122
+Bechu Majhi,,Unemployed,1,1,"31 March,2020",48,0,1,19,0,1,0,123
+Nabirul Islam,,Unemployed,1,1,"October 12, 2018",,0,0,20,0,0,0,124
+Shahadat Hossain,,Unemployed,1,1,"October 12, 2018",,0,0,20,0,0,0,125
+Maruf Mollah,19,Unemployed,0,0,"3 Aprill, 2019",14,0,0,21,0,0,1,126
+Tara Shakti Gazi,32,Unemployed,0,1,"4 March,2019",8,1,1,22,0,0,0,127
+Rajon,25,auto-rickshaw driver,0,1,"6 April,2019",,0,0,23,0,0,0,128
+Shakib Hawlader,24,Unemployed,0,1,"4 April,2019",,0,1,24,0,0,0,129
+Nayan Sarder,23,Unemployed,0,1,"4 April,2019",,0,1,24,0,0,0,130
+Md Hridoy,22,Unemployed,0,1,"4 April,2019",,0,1,24,0,0,0,131
+Al Amin,22,Unemployed,0,1,"4 April,2019",,0,1,24,0,0,0,132
+Nazrul Islam,30,Unemployed,0,1,"7 April,2019",5,0,0,25,0,0,1,133
+Sujan Mia,,Unemployed,0,0,"6 April,2019",14,0,1,26,0,0,0,134
+Mintu Sheikh,19,auto-rickshaw driver,1,1,"9 April, 2019",2,0,0,27,0,0,0,135
+Amirul Islam,,Unemployed,1,1,"11 April,2019",35,0,1,28,0,1,1,136
+Nizam Uddin Bacchu,,Unemployed,1,1,"11 April,2019",35,0,1,28,0,1,1,137
+Md Abdul Karim Khan Bahadur,,Head Teacher,0,0,"11 April,2019",,0,0,29,0,0,0,138
+Tafsirul Islam,28,Madrasa Teacher,1,0,"11 April,2019",8,0,0,30,0,0,0,139
+Hasan Mia,27,Unemployed,0,1,"5 April,2019",16,0,0,31,0,0,1,140
+Jalil,,Shopkeeper,0,1,"13 April,2019",13,0,0,32,0,0,0,141
+Yusuf Rana,25,Unemployed,1,1,"14 April,2019",25,0,1,33,0,1,0,142
+Md Robin,25,Unemployed,1,1,"14 April,2019",25,0,1,33,0,1,0,143
+Jahidul Islam,25,Unemployed,1,1,"14 April,2019",25,0,1,33,0,1,0,144
+Mdb Mofiz,21,Unemployed,1,0,"14 April,2019",25,0,1,33,0,1,0,145
+Tanjirul Islam,22,Unemployed,1,1,"14 April,2019",25,0,1,33,0,1,0,146
+Ibrahim Ibne Al Beruni,20,Unemployed,1,0,"14 April,2019",25,0,1,33,0,1,0,147
+Dabir Uddin,52,Unemployed,1,1,"16 April,2019",13,0,0,34,0,0,0,148
+"Johurul, ",26,driver,0,1,"16 April,2019",14,0,0,35,0,0,,149
+Al- Amin,45,Madrasha teacher,1,0,"04 July, 2019",8,0,0,1,0,0,0,150
+Boy,16,Unemployed,0,0,"20 July, 2019",9,0,0,2,0,0,1,151
+Mamun,18,auto-rickshaw driver,1,1,"06 July, 2019",,0,1,3,0,1,0,152
+Helal and 2 more ,30,Unemployed,1,1,"06 July, 2019",,0,1,3,0,1,0,153
+Kazi Jahid Hasan,,Imam ,0,1,"  25 june , 2019",16,0,0,4,0,0,0,154
+Abul Kahar,,auto-rickshaw driver,0,1,"26 June, 2019",,0,0,5,0,0,0,155
+Siyam,22,Unemployed,1,1,"18 August, 2019",45,0,1,6,0,1,0,156
+Sadek Mia,,Unemployed,1,1,"18 August, 2019",45,0,1,6,0,1,0,157
+Rony,,Unemployed,1,1,"18 August, 2019",45,0,1,6,0,1,0,158
+Pintu,,Unemployed,1,1,"18 August, 2019",45,0,1,6,0,1,0,159
+Shajal,,Unemployed,1,1,"18 August, 2019",45,0,1,6,0,1,0,160
+ Shaon ( total 10 ),,Unemployed,1,1,"18 August, 2019",45,0,1,6,0,1,0,161
+Delwar Hossain,30,rickshaw puller,1,1,"11 march , 2016",4,0,0,7,,0,0,162
+Nasir Uddin,35,rice trader,1,1,"12 March, 2016",8,0,0,8,0,0,0,163
+Md Jewel(two associates),25,Unemployed,0,1,"10 September, 2019",23,0,1,9,0,1,0,164
+Bakul,24,Unemployed,0,1,"April 15, 2018",13,0,0,10,0,1,1,165
+Russel ,,joint secretary of Dapunia Union Awami League,1,1,"30 August, 2019",,0,1,11,0,1,0,166
+Shariful Islam Ghontu,,joint secretary of Dapunia Union Awami League,1,1,"30 August,2019",,0,1,11,0,1,0,167
+Hossain,,Unemployed,1,1,"30 August, 2019",,0,1,11,0,1,0,168
+Osman,,Unemployed,1,1,"30 August, 2019",,0,1,11,0,1,0,169
+Sanju,,Unemployed,1,1,"30 August , 2019",,0,1,11,0,1,0,170
+Alamgir Hossain Bablu,45,office assistant of Fazil Degree Madrasa,0,1,"14 September, 2019",9,0,0,12,0,0,0,171
+Washim Akram and his 3 friends ,,Unemployed,0,1,"August 22, 2019",8,1,1,13,0,0,0,172
+Mashuk Miah,42,Unemployed,0,1,"03 September, 2019",14,0,0,14,1,0,0,173
+Saifur Rahman,,Murari Chand College Student ,1,1,"19 September, 2019",,0,1,15,0,1,0,174
+Shah Md Mahbubur Rahman Roni,,Murari Chand College Student,1,1,"September 25, 2019",,0,1,15,0,1,0,175
+Arjun Lasker,,Murari Chand College Student,1,1,September 25,,0,1,15,0,1,0,176
+Robiul Islam,,Murari Chand College Student,1,1,September 25,,0,1,15,0,1,0,177
+Mahfuzur Rahman Masum,,Murari Chand College Student,1,1,September 25,,0,1,15,0,1,0,178
+Tarequl Islam Tarek,,Murari Chand College Student,1,1,September 25,,0,1,15,0,1,0,179
+Joynal Abedin,52,rickshaw puller,0,1,"12 September, 2019",10,0,0,16,0,0,1,180
+Ashraf Ali,55,Unemployed,1,1,"13 September, 2019",7,0,0,17,0,0,1,181
+Jagadis Chandra Roy,30,house tutor,1,1,"10 September, 2019",17,0,0,18,0,0,0,182
+Kaiyum,26,Unemployed,1,1,"10 September, 2019",,0,1,19,0,1,0,183
+Tuhin Alam,44,Unemployed,1,1,"10 September, 2019",,0,1,19,0,1,0,184
+boy,16,Unemployed,0,0,"11 September, 2019",15,0,0,20,0,0,1,185
+Youth,25,Unemployed,0,1,"10 September, 2019",18,0,0,21,1,0,0,186
+Golam Kibria,,assistant officer in NGO,0,1,"05 September, 2019",10,0,0,22,0,0,0,187
+Amir Hossain,25,Unemployed,0,1,"27 September, 2019",16,0,0,23,0,0,0,188
+Harun-ur Rashid,,Unemployed,1,1,"05 July, 2019",7,1,0,24,0,0,0,189
+Mufti Abu Hanif,,"Principle, Madrasa ",0,0,"24 July, 2019",,1,0,25,0,0,0,190
+Tamim e Dari,,"Assistant Teacher, Madrasa",0,1,"24 july , 2019",,1,0,25,0,0,0,191
+Munnu alias Mustak,30,Unemployed,1,1,"July 26, 2019",11,0,0,26,0,0,1,192
+Abdul Malek,50,Unemployed,1,1,"10 July, 2019",6,0,0,27,0,0,1,193
+Qazim Uddin ,50,Rickshaw-puller,0,1,"23 April, 2020",40,1,1,28,0,1,0,194
+Parvez,18,Unemployed,0,1,"23 April, 2020",16,1,1,28,0,0,1,195
+Hanif ,32,Day-labourer,0,1,"23 April, 2020",40,1,1,28,0,1,0,196
+Bashir,26,Auto-rickshaw driver,0,1,"23 April, 2020",16,1,1,28,0,0,0,197
+Helal,30,Scrap trader,0,1,"23 April, 2020",12,1,1,28,0,0,0,198
+Elahi Mia,35,Day-labourer,0,1,"23 April, 2020",12,1,1,28,0,0,0,199
+Iftekhar Fardin Dihan,17,Student,1,1,"21 January, 2021",17,1,0,29,0,0,0,200
+Ruhul Amin,,Politician,0,1,"31 December, 2018",35,0,1,30,0,1,0,201
+Jasim Uddin,,Unemployed,0,1,"31 December, 2018",35,0,1,30,0,1,0,202
+Hasan Ali Bulu,,Unemployed,0,1,"31 December, 2018",35,0,1,30,0,1,0,203
+Ibrahim Khalil Bechu,,Unemployed,0,1,"31 December, 2018",35,0,1,30,0,1,0,204
+Badsha Alom Bashu,,Unemployed,0,1,"31 December, 2018",35,0,1,30,0,1,0,205
+Sohel,,Unemployed,0,1,"31 December, 2018",35,0,1,30,0,1,0,206
+Swapan,,Unemployed,0,0,"31 December , 2018",35,0,1,30,0,1,0,207
+Abdul Gafur,42,Superintendent,1,1,"18 July, 2020",8,0,0,31,0,0,0,208
+Unknown ,,Unemployed,0,1,"28 July, 2020",14,0,1,32,0,0,0,209
+Yousuf Mia,45,Unemployed,1,1,"June 01, 2020",11,0,0,33,0,0,0,210
+Md Shakhawat Hossain Rana,40,Doctor,1,0,"25 July, 2020",27,0,0,34,0,0,0,211
+Akram Hosen,25,Unemployed,1,1,"06 June , 2020",19,0,1,35,0,0,0,212
+Mizanur Rahman,40,Unemployed,1,1,"06 June, 2020",19,0,1,35,0,0,0,213
+Shahidul,25,Unemployed,0,1,"29 July, 2020",19,0,1,36,0,0,0,214
+Swapan,40,Unemployed,0,1,"29 July, 2020",19,0,1,36,0,0,0,215
+Jiten,35,Unemployed,0,1,"29 July, 2020",19,0,1,36,0,0,0,216
+Khakan,45,Unemployed,0,1,"29 July, 2020",19,0,1,36,0,0,0,217
+Rashid Gazi,32,Unemployed,0,1,"29 July, 2020",19,0,1,36,0,0,0,218
+Md Rony Mollah,18,Student,1,0,"June 20, 2020",15,0,0,37,0,0,1,219
+Mohammad Shah Alam,55,Doctor,0,1,"04 July,2020",17,0,0,38,0,0,0,220
+Anamul Haque,30,Unemployed,0,1,"27 July,2020",16,0,1,39,0,0,1,221
+Md Rezaul,32,Unemployed,0,1,"27 July,2020",16,0,1,39,0,0,1,222
+Md Dhalu,27,Unemployed,0,1,"27 July, 2020",16,0,1,39,0,0,1,223
+Md Sumon Mia,23,Unemployed,0,0,"27 July,2020",16,0,1,39,0,0,1,224
+Sujan Kazi,17,Unemployed,0,0,"27 July, 2020",16,0,0,39,0,0,1,225
+Sohel Rana,19,Unemployed,0,0,"21 August, 2020",13,0,0,40,0,0,1,226
+Shanto Kumar,20,Student ,1,0,"13 August,2020",18,0,1,41,0,0,0,227
+Bulbul Islam,18,Student ,1,0,"13 August, 2020",18,0,1,41,0,0,0,228
+Sazu Mia,18,Student ,1,0,"13 August, 2020",18,0,1,41,0,0,0,229
+Al Amin,29,Bus Driver ,1,1,"24 August, 2020",18,0,1,42,0,0,0,230
+Mujibur Rahman,22,Bus Contacter,1,1,"24 August,2020",18,0,1,42,0,0,0,231
+Ekramul Haque Parvez,20,Unemployed,0,0,"22 August,2020",30,0,1,43,0,1,0,232
+Nezam Uddin,19,Unemployed,0,0,"22 August,2020",30,0,1,43,0,1,0,233
+Ekram Hossain,19,Unemployed,0,0,"22 August, 2020",30,0,1,43,0,1,0,234
+Kalim Ullah,20,Unemployed,0,0,"22 August, 2020",30,0,1,43,0,1,0,235
+Rezaul Karim,45,Owner of clinic,1,1,"21 August, 2020",25,0,0,44,0,0,0,236
+Tarun Kumar Barman,,Fisherman,1,1,"15 August, 2020",16,0,0,45,0,0,0,237
+Mohor Ali,28,Unemployed,1,1,"17 August,2020",25,0,0,46,0,1,0,238
+Boy,13,Labourer,1,0,"14 August, 2020",4,0,0,47,0,0,1,239
+Lokman Hossain,,Auto-rickshaw driver,1,1,07 December 2019,13,0,0,16,2,0,,240
+Moksed Ali,50,Unemployed,1,0,"October 27, 2019",13,0,0,17,2,0,,241
+Babu and Rezaul,,Unemployed,1,1,08 March 2019,17,0,1,18,,0,,242
+Aminul Islam,32,Unemployed,1,1,"May 03, 2018",10,0,0,19,,0,,243
+Shah Alam,40,Truck driver,1,1,"April 17, 2019",10,0,0,20,,0,,244
+Sukkur Ali,30,CNG-run auto-rickshaw driver,0,1,"April 17, 2019",17,,,21,,0,,245
+Al Amin,20,Unemployed,1,0,4/17/2019,12,,,22,,0,,246
+Nizam,,CNG-run auto-rickshaw driver,1,1,4/17/2019,16,0,0,23,,0,,247
+Ashraful Islam,23,Unemployed,0,1,"December 23, 2019",6,0,0,24,,0,,248
+Sajal Mia,27,Day labourer,0,1,"January 25, 2019",12,0,0,25,,0,,249
+Ayub Ali,42,Madrasa Teacher ,0,0,"September 03, 2019",11,0,0,26,,0,,250
+Abdul Mamun,20,Unemployed,1,0,"September 04, 2019",,,,27,,0,,251
+Mostakim,18,Unemployed,0,0,"September 04, 2019",12,0,0,28,,0,,252
+Nazrul Islam,,Unemployed,0,1,"September 04, 2019",,,,29,,0,,253
+Md Musa,,Unemployed,0,1,9/4/2019,,,,30,,0,,254
+Washim Akram,,Unemployed,1,1,9/4/2019,,1,1,31,,0,,255
+Shakil Kamal Chowdhury,52,Business Man ,1,1,"October 01, 2019",27,0,1,32,,0,,256
+Mohiuddin Sikder,50,Business Man ,1,1,"October 01, 2019",27,0,1,32,,0,,257
+Abul Bashar,,Teacher,1,0,"October 02, 2019",12,0,0,33,,0,,258
+Md Sipon,19,Unemployed,1,0,"October 02, 2019",14,0,1,34,,0,,259
+Jamal Miah,20,Unemployed,1,0,"October 02, 2019",14,0,1,34,,0,,260
+Muktar Hossain,,Unemployed,1,1,"October 03, 2019",,0,0,35,,1,,261
+Mahbubul Alam,,Unemployed,1,1,"October 03, 2019",,0,0,35,,1,,262
+"Mazidul Islam, ",39,Unemployed,1,1,"October 03, 2019",,0,1,36,,0,,263
+Rana Miah,24,Unemployed,1,1,"October 03, 2019",,0,1,36,,0,,264
+Kalipada Das,,Unemployed,1,1,"October 04, 2019",,0,1,37,,1,,265
+Nizamuddin,,Unemployed,1,1,"October 04, 2019",,0,1,37,,1,,266
+Mehedi Hasan Modern,,Unemployed,0,1,"October 07, 2019",,1,1,38,,0,,267
+Alamgir,45,Unemployed,1,1,"October 06, 2019",15,0,0,39,,0,,268
+Shamim Khan,45,correspondent,1,1,"October 06, 2019",15,0,0,39,,0,,269
+Abdul Momen,50,Farmer ,1,1,"October 08, 2019",32,0,0,40,,1,,270
+Ohid Biswas,28,Unemployed,1,1,"October 08, 2019",6,0,0,41,,0,,271
+Abu Sayeed,24,Unemployed,1,1,"October 09, 2019",25,0,1,42,,1,,272
+Imran Uddin,25,Unemployed,1,1,"October 09, 2019",25,0,1,42,,1,,273
+Roni Hossain,22,Unemployed,1,0,"October 09, 2019",25,0,1,42,,1,,274
+Abul Hossain,30,Unemployed,1,1,"October 09, 2019",25,0,1,42,,1,,275
+Masud Mia,26,Unemployed,1,1,"October 09, 2019",25,0,1,42,,1,,276
+Habibur Rahman,,Teacher ,1,0,"October 10, 2019",14,1,0,43,,0,,277
+Nazrul Islam,37,Teacher,1,0,"October 10, 2019",,0,1,44,,0,,278
+Tariqul Islam,23,Teacher,1,0,"October 10, 2019",,0,1,44,,0,,279
+Kabir Hossain,25,Worker ,1,1,"October 13, 2019",7,0,0,45,,0,,280
+Pulak Kanti Baidya,30,Unemployed,0,1,"October 19, 2019",,0,0,46,,0,,281
+Rana Chasha,25,Unemployed,0,1,"October 19, 2019",20,0,1,47,,0,,282
+Jagadish Chasha,28,Unemployed,0,1,"October 19, 2019",20,0,1,47,,0,,283
+Prodip Biswas,35,Unemployed,0,1,"October 22, 2019",24,0,0,48,,0,,284
+Shanu Mia,35,Unemployed,0,1,"October 26, 2019",,0,1,49,,0,,285
+Anish Mia,32,Unemployed,0,1,"October 26, 2019",,0,1,49,,0,,286
+Fahad Khandakar,18,Unemployed,0,0,"October 29, 2019",2,0,0,50,,0,,287
+Jahidul Islam,18,Unemployed,0,0,"October 29, 2019",,0,1,51,,0,,288
+Md Jashim,22,Unemployed,0,1,"October 29, 2019",,0,1,51,,0,,289
+Md Rashed,18,Unemployed,0,0,"October 29, 2019",,0,1,51,,0,,290
+Bilal Hossain,35,Unemployed,1,1,"October 29, 2019",,0,1,52,,1,,291
+ Kiran,26,Unemployed,1,1,"October 29, 2019",,0,1,52,,1,,292
+Rased Palwan,25,Unemployed,1,1,"October 29, 2019",,0,1,52,,1,,293
+Shahid Khan,22,Unemployed,1,1,"October 29, 2019",,0,1,52,,1,,294
+Riaj Hossain,25,boat driver,1,1,"October 29, 2019",,0,1,52,,1,,295
+Nazrul Islam,30,Politician ,1,1,"October 29, 2019",,0,1,52,,1,,296
+Bhagirat Biswas,,Unemployed,0,1,"November 02, 2019",14,0,0,53,,0,,297
+Sajib Raihan,22,Student ,1,1,"November 03, 2019",,0,1,54,,0,,298
+Polash,22,Student ,1,1,"November 03, 2019",,0,1,54,,0,,299
+Aminul Islam,28,Unemployed,1,1,"November 03, 2019",15,0,0,55,,0,,300
+Anjan Mia,38,Unemployed,1,1,"November 03, 2019",,0,0,56,,0,,301
+Bashir Howladar,22,Unemployed,0,1,"November 04, 2019",17,0,1,57,,0,,302
+Kabir Howladar,48,Unemployed,0,1,"November 04, 2019",17,0,1,57,,0,,303
+Ashfaq Hossain,28,Unemployed,0,1,"November 04, 2019",17,0,1,57,,0,,304
+Ashik,22,Helper ,1,1,"November 04, 2019",,0,1,58,,0,,305
+Juwel,28,Helper,1,1,"November 04, 2019",,0,1,58,,0,,306
+Harun Miah,,Bus Driver ,1,1,"November 04, 2019",,0,1,58,,0,,307
+ Faruk,24,Labourer,1,1,"November 08, 2019",13,0,0,59,,0,,308
+Noor Mohammad,28,caretaker,0,1,"November 09, 2019",16,0,0,60,,0,,309
+Rahman Dhalu,26,rice mill worker,0,1,"November 12, 2019",22,0,1,61,,0,,310
+Md Nantu,25,rice mill worker,0,1,"November 12, 2019",22,0,1,61,,0,,311
+Habibur Rahman,,Unemployed,0,1,"November 12, 2019",14,0,0,62,,0,,312
+Erfan,26,Unemployed,1,1,"November 14, 2019",16,0,1,63,,0,,313
+Mansur,19,Unemployed,1,0,"November 14, 2019",16,0,1,63,,0,,314
+Suman,27,Unemployed,1,1,"November 14, 2019",16,0,1,63,,0,,315
+Joynal Abedin,19,employee,0,0,"November 15, 2019",8,0,0,64,,1,,316
+Shibapado Roy,,Teacher ,1,0,"November 15, 2019",,0,0,65,,1,,317
+Borhan Ali,30,Unemployed,0,1,"November 17, 2019",,0,0,66,,0,,318
+Kamal Sana,35,Unemployed,0,1,"November 17, 2019",,0,0,67,,1,,319
+Nurul Islam Boyati,20,Unemployed,0,1,"November 17, 2019",,0,1,68,,0,,320
+Tarikul Islam,19,Unemployed,0,0,"November 17, 2019",,0,1,68,,0,,321
+Mir Juboraj,40,Unemployed,1,1,"November 19, 2019",14,0,0,69,,0,,322
+Sanuar Hossain,35,Unemployed,1,1,"November 20, 2019",,1,1,70,,1,,323
+Shaon,25,Unemployed,1,1,"November 20, 2019",,1,1,70,,1,,324
+Rafiz Uddin,40,Unemployed,1,1,"November 20, 2019",,1,1,70,,1,,325
+Iqbal Hossain,37,Unemployed,0,1,"November 21, 2019",30,1,1,71,,1,,326
+Azim Uddin,38,Unemployed,0,1,"November 21, 2019",30,1,1,71,,0,,327
+Shuvo Sheikh,22,Unemployed,0,1,"November 24, 2019",23,0,1,72,,0,,328
+Bellal Khan,32,Unemployed,0,1,"November 24, 2019",23,0,1,72,,0,,329
+Sona Mia,23,Unemployed,0,1,"November 24, 2019",6,0,0,73,,0,,330
+Sharifuzzaman,22,student ,0,0,"November 25, 2019",5,0,0,74,,0,,331
+Raihan,19,Unemployed,1,0,"November 26, 2019",13,0,0,75,,0,,332
+Mobarak Hossain,56,Banker ,1,0,"December 05, 2019",,0,0,76,,0,,333
